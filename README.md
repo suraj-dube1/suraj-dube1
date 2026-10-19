@@ -1,4 +1,4 @@
-# Hi, I'm Suraj Dube 👋
+# Hi, I'm Suraj Dubey 👋
 
 ### Computer Science Engineering Student | Python | AI & Software Development
 
